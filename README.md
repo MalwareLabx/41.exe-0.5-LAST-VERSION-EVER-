@@ -20,7 +20,7 @@ It consists of a part written in **C#** and the **MBR** written in Assembly.
 ### Main Changes:  
 1. **Duration**:  
    - The duration of the original version was 10 minutes, but it was boring.  
-   - Now, there are two versions with different durations:  
+   - Now, there are two versions 
      - **Version with 4 MBRs**: shorter than the original version but with 4 random mbr.  
      - **Version with 1 MBR**: shorter, but retains the same payloads.   
 
