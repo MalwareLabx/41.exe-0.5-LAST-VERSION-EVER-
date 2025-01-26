@@ -1,4 +1,4 @@
-# Malware GDI in C#  
+# GDI MALWARE IN C#
 
 ## 📜 Introduction  
 This is an old GDI malware I made in C#, and now I’m making it public.  
